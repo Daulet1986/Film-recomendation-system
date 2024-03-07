@@ -1,3 +1,5 @@
+Video with showing of work process of the project:
+https://youtu.be/pOqcgRchHuk
 # Recommending Films Based on the Facial Expression of a Person
 
 This project is an end-to-end application designed to analyze emotions from images and recommend movies based on the detected emotions. It leverages TensorFlow for building a convolutional neural network (CNN) to classify emotions from facial expressions in images. The project utilizes the FER2013 dataset for training the emotion recognition model.  features a movie recommendation system that suggests movies based on the detected emotion.
